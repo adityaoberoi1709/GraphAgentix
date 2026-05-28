@@ -1,1 +1,0 @@
-# enterprise-genai-platform
